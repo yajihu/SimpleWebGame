@@ -1,6 +1,6 @@
 
-By Yaji Hu      Student Id:101012215
-   Yejing Li    Student Id:101056554
+By Yaji Hu    
+   Yejing Li 
 
 Date: 2018.3.08
 
