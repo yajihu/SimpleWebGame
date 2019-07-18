@@ -1,4 +1,3 @@
-2406 assignment 3
 
 By Yaji Hu      Student Id:101012215
    Yejing Li    Student Id:101056554
@@ -7,7 +6,7 @@ Date: 2018.3.08
 
 Written with Mac10.13.1 and Win 10 systems
 Tested by Google Chrome browser
-Reference: Code from tutorials and lecture notes from Louis Nel.
+Reference: Code from tutorials and lecture notes from Dr.Louis Nel.
 
 1)To run the website, firstly you need to switch to A3 directory.
   Secondly you need to type  "node server.js" in command lines.
